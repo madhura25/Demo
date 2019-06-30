@@ -1,3 +1,3 @@
 # Demo
-Changed text
-changed in vs code
+Changed text.
+changed in vs code.
